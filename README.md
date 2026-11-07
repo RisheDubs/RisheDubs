@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on Coding and Software Development
 - 📫 How to reach me rishedubs@gmail.com
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
 
 <!---
 RisheDubs/RisheDubs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
